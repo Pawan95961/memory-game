@@ -1,12 +1,11 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+## <b> [Click here to Play the GAME!!](memory-game-gamma-jet.vercel.app)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
 
-this is the game link 
-click below
+this is the game link -----
 memory-game-gamma-jet.vercel.app
 
 It's a simple online memory matching game, which contains various levels.
