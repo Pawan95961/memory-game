@@ -5,6 +5,10 @@
 
 This project is made using HTML,CSS &amp; JavaScript.
 
+this is the game link 
+click below
+memory-game-gamma-jet.vercel.app
+
 It's a simple online memory matching game, which contains various levels.
 <br>
 Here are some snapshots from game.
